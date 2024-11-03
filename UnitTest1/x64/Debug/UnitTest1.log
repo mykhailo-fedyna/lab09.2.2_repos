@@ -1,0 +1,29 @@
+﻿  UnitTest1.cpp
+C:\Users\Федина М\Desktop\Лабораторні АП\lab9.2.2\lab9.2.2.cpp(42,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\Федина М\Desktop\Лабораторні АП\lab9.2.2\lab9.2.2.cpp(42,42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\Федина М\Desktop\Лабораторні АП\lab9.2.2\lab9.2.2.cpp(42,70): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\Федина М\Desktop\Лабораторні АП\lab9.2.2\lab9.2.2.cpp(100,122): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\Федина М\Desktop\Лабораторні АП\lab9.2.2\lab9.2.2.cpp(100,101): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\Федина М\Desktop\Лабораторні АП\lab9.2.2\lab9.2.2.cpp(100,80): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\Федина М\Desktop\Лабораторні АП\lab9.2.2\lab9.2.2.cpp(100,62): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\Федина М\Desktop\Лабораторні АП\lab9.2.2\lab9.2.2.cpp(100,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\Федина М\Desktop\Лабораторні АП\lab9.2.2\lab9.2.2.cpp(100,29): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/UnitTest1.cpp')
+  
+  UnitTest1.vcxproj -> C:\Users\Федина М\Desktop\Лабораторні АП\lab9.2.2\x64\Debug\UnitTest1.dll
